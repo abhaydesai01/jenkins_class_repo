@@ -1,1 +1,1 @@
-# jenkins_class_repo
+# jenkins-class-repo
